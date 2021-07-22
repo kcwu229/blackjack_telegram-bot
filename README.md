@@ -1,7 +1,8 @@
 # blackjack_telegram-bot (Made for study purpose only)
 
 Game Bot link : https://t.me/testingvv_bot      
-![BlackJack tg](https://user-images.githubusercontent.com/79691025/126692468-8ae0d2a4-a0de-4cba-b908-d4914c3bbd7e.png)
+![bot_cover jpg](https://user-images.githubusercontent.com/79691025/126695051-2e0b5822-ff7d-4b60-a2b1-19d2cb6f9bb4.png)
+
 
 
 This supports deployment in Heroku, where you need to fill in your followings variables:
