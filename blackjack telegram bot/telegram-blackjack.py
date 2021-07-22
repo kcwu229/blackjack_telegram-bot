@@ -13,7 +13,7 @@ TOKEN = "ENTER YOUR TOKEN HERE"
 bot = telegram.Bot(TOKEN)
 
 """ ------ Initial data set up ------------------------------------------------------------------ -------------------"""
-ONE, TWO, THREE, FOUR, FIVE, SIX, SEVEN = range(7)
+ONE, TWO, THREE, FOUR = range(4)
 def start(update, context):
     update.message.reply_text("🥳🥳 Welcome, please enjoy the game. To see further description, please type /help ")
 
