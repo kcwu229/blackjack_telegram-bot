@@ -116,7 +116,7 @@ def stage_one(update, context):
     hit_stand1(update, context)
     return FOUR
 
-def hit_stand1(update, context):    # First round on hit_stand # 第一次就stand 要按多幾次先接到落去, need fix
+def hit_stand1(update, context):    # First round on hit_stand #  need to press for serveral time if you select stand initailly 
     if len(stand_lst) == len(player_lst):
         judge(update, context)
     else:
@@ -240,7 +240,6 @@ dp.add_handler(CommandHandler("help", help))
 dp.add_handler(conv_handler)
 
 """ ------ running bot program  ----------------------------------------------------------------- -------------------"""
-updater.start_polling()
 updater.start_webhook(listen="0.0.0.0",
                       port=int(PORT),
                       url_path=TOKEN,
