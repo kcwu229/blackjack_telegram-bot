@@ -1,6 +1,6 @@
 # blackjack_telegram-bot (Made for study purpose only)
 
-Game Bot link : https://t.me/testingvv_bot      
+Game Bot link : https://t.me/testingvv_bot   (maybe not work again since not maintain for a long period of time)
 
 ![bot_cover jpg](https://user-images.githubusercontent.com/79691025/126695051-2e0b5822-ff7d-4b60-a2b1-19d2cb6f9bb4.png)
 
